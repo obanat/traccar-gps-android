@@ -1,0 +1,25 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 背景圆 -->
+    <item>
+        <shape
+            android:shape="oval">
+            <solid android:color="#6B000000" />
+            <size
+                android:width="50dp"
+                android:height="50dp" />
+        </shape>
+    </item>
+    <!-- 边框圆 -->
+    <item>
+        <shape
+            android:shape="oval">
+            <solid android:color="#6BDCD7D7" />
+            <stroke
+                android:width="5dp"
+                android:color="#BFE7DDDD" />
+            <size
+                android:width="30dp"
+                android:height="30dp" />
+        </shape>
+    </item>
+</layer-list>

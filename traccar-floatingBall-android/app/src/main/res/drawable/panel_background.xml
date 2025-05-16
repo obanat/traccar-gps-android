@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 设置颜色为半透明浅黑色 -->
+    <solid android:color="#6973A475" />
+
+    <!-- 设置四个角为圆角 -->
+    <corners android:radius="20dp" />
+
+    <!-- 设置大小 -->
+    <size
+        android:width="200dp"
+        android:height="200dp" />
+</shape>
