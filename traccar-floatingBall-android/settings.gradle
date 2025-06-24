@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "floatingBall"
-include(":app")
- 
+rootProject.name = "Traccar"
+include ':app'
